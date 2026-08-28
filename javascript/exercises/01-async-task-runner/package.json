@@ -1,0 +1,13 @@
+{
+  "name": "01-async-task-runner",
+  "version": "0.0.1",
+  "author": "Adam Harvey",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "vitest"
+  },
+  "devDependencies": {
+    "vitest": "^4.1.11"
+  }
+}
